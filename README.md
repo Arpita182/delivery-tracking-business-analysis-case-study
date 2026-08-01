@@ -104,9 +104,7 @@ Introduce a real-time delivery tracking capability that allows customers to:
 
 ## Tools Used
 
-- Jira — requirements and user-story management
 - Figma — wireframes
-- Miro — process analysis and brainstorming
 - draw.io — process flow and use case diagrams
 - Excel — UAT test cases
 - ChatGPT — AI-assisted documentation and analysis
