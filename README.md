@@ -152,3 +152,21 @@ delivery-tracking-business-analysis-case-study/
 │
 └── 07-UAT/
     └── UAT-Test-Cases.xlsx
+
+Expected Business Benefits
+
+The proposed solution is intended to:
+- Improve delivery visibility for customers.
+- Reduce uncertainty during the delivery stage.
+- Provide more transparent delivery information.
+- Improve the usefulness of ETA information.
+- Reduce customer frustration caused by limited delivery visibility.
+- Provide a better overall delivery tracking experience.
+
+Disclaimer
+
+This is an independent Business Analysis case study created for portfolio and learning purposes.
+
+It is not an official project of Zepto, and I am not representing that I worked with or for Zepto.
+
+The problem statement is based on personal observation of the delivery tracking experience and publicly observable product behaviour. The proposed solution, requirements, process models, wireframes, and other project artifacts are my own analysis and are intended to demonstrate Business Analysis skills.
